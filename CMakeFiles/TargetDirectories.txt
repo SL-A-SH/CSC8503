@@ -1,0 +1,6 @@
+D:/Projects/Computer Game Engineering - Newcastle/CSC8503/CMakeFiles/ALL_BUILD.dir
+D:/Projects/Computer Game Engineering - Newcastle/CSC8503/CMakeFiles/ZERO_CHECK.dir
+D:/Projects/Computer Game Engineering - Newcastle/CSC8503/NCLCoreClasses/CMakeFiles/NCLCoreClasses.dir
+D:/Projects/Computer Game Engineering - Newcastle/CSC8503/CSC8503CoreClasses/CMakeFiles/CSC8503CoreClasses.dir
+D:/Projects/Computer Game Engineering - Newcastle/CSC8503/OpenGLRendering/CMakeFiles/OpenGLRendering.dir
+D:/Projects/Computer Game Engineering - Newcastle/CSC8503/CSC8503/CMakeFiles/CSC8503.dir

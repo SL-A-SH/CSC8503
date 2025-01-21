@@ -1,0 +1,8 @@
+﻿  Camera.cpp
+  RendererBase.cpp
+  Win32Keyboard.cpp
+  Win32Mouse.cpp
+  Win32Window.cpp
+  Window.cpp
+  Generating Code...
+  NCLCoreClasses.vcxproj -> D:\Projects\Computer Game Engineering - Newcastle\CSC8503\NCLCoreClasses\Debug\NCLCoreClasses.lib

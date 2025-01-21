@@ -1,0 +1,57 @@
+﻿  EnemyAI.cpp
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\KittenManager.h(29,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'EnemyAI.cpp')
+  
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\EnemyAI.cpp(156,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GameBase.cpp
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\KittenManager.h(29,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'GameBase.cpp')
+  
+  GameLevel.cpp
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\KittenManager.h(29,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'GameLevel.cpp')
+  
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameLevel.cpp(315,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameLevel.cpp(520,26): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameLevel.cpp(525,26): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+  GameState.cpp
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\KittenManager.h(29,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'GameState.cpp')
+  
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(264,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(264,51): warning C4244:         with
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(264,51): warning C4244:         [
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(264,51): warning C4244:             T=float
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(264,51): warning C4244:         ]
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(269,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(269,40): warning C4244:         with
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(269,40): warning C4244:         [
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(269,40): warning C4244:             T=float
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(269,40): warning C4244:         ]
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(273,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(273,47): warning C4244:         with
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(273,47): warning C4244:         [
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(273,47): warning C4244:             T=float
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(273,47): warning C4244:         ]
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(280,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(280,48): warning C4244:         with
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(280,48): warning C4244:         [
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(280,48): warning C4244:             T=float
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(280,48): warning C4244:         ]
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(287,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(287,63): warning C4244:         with
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(287,63): warning C4244:         [
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(287,63): warning C4244:             T=float
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\GameState.cpp(287,63): warning C4244:         ]
+  GooseAI.cpp
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\KittenManager.h(29,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'GooseAI.cpp')
+  
+  Main.cpp
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\KittenManager.h(29,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\Main.cpp(108,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Computer Game Engineering - Newcastle\CSC8503\CSC8503\Main.cpp(194,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  CSC8503.vcxproj -> D:\Projects\Computer Game Engineering - Newcastle\CSC8503\x64\Debug\CSC8503.exe
